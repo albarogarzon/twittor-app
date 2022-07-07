@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd57c90d.css",
-    "main.js": "/static/js/main.fc0c59e3.js",
-    "static/js/787.a576fb6f.chunk.js": "/static/js/787.a576fb6f.chunk.js",
-    "static/media/1.1_error-404.png": "/static/media/1.1_error-404.fe6e5b62fe9e18403f7c.png",
-    "static/media/LogoB.png": "/static/media/LogoB.0d659bb2e036e6fdfb2c.png",
-    "static/media/LogoW.png": "/static/media/LogoW.13c88c37e967a94ebc5b.png",
-    "static/media/Logo.png": "/static/media/Logo.57573394db94634d7e1f.png",
-    "static/media/calendar-date-times-meet-svgrepo-com.svg": "/static/media/calendar-date-times-meet-svgrepo-com.f6650fb2577b04b6f968e5845502527b.svg",
-    "static/media/link-svgrepo-com.svg": "/static/media/link-svgrepo-com.baafc9bb8d430c39e7dd78304ded4a81.svg",
-    "static/media/camara.svg": "/static/media/camara.d25775caaa8291a151822bb7942f88aa.svg",
-    "static/media/location-svgrepo-com.svg": "/static/media/location-svgrepo-com.97bf7e1f9458e77d4561b27fb788c11a.svg",
-    "static/media/12.1_close.svg": "/static/media/12.1_close.da5c42223be72e07b42078ba244d26c0.svg",
-    "index.html": "/index.html",
-    "main.cd57c90d.css.map": "/static/css/main.cd57c90d.css.map",
-    "main.fc0c59e3.js.map": "/static/js/main.fc0c59e3.js.map",
-    "787.a576fb6f.chunk.js.map": "/static/js/787.a576fb6f.chunk.js.map"
+    "main.css": "/twittor-app/static/css/main.cd57c90d.css",
+    "main.js": "/twittor-app/static/js/main.0d4665ce.js",
+    "static/js/787.a576fb6f.chunk.js": "/twittor-app/static/js/787.a576fb6f.chunk.js",
+    "static/media/1.1_error-404.png": "/twittor-app/static/media/1.1_error-404.fe6e5b62fe9e18403f7c.png",
+    "static/media/LogoB.png": "/twittor-app/static/media/LogoB.0d659bb2e036e6fdfb2c.png",
+    "static/media/LogoW.png": "/twittor-app/static/media/LogoW.13c88c37e967a94ebc5b.png",
+    "static/media/Logo.png": "/twittor-app/static/media/Logo.57573394db94634d7e1f.png",
+    "static/media/calendar-date-times-meet-svgrepo-com.svg": "/twittor-app/static/media/calendar-date-times-meet-svgrepo-com.f6650fb2577b04b6f968e5845502527b.svg",
+    "static/media/link-svgrepo-com.svg": "/twittor-app/static/media/link-svgrepo-com.baafc9bb8d430c39e7dd78304ded4a81.svg",
+    "static/media/camara.svg": "/twittor-app/static/media/camara.d25775caaa8291a151822bb7942f88aa.svg",
+    "static/media/location-svgrepo-com.svg": "/twittor-app/static/media/location-svgrepo-com.97bf7e1f9458e77d4561b27fb788c11a.svg",
+    "static/media/12.1_close.svg": "/twittor-app/static/media/12.1_close.da5c42223be72e07b42078ba244d26c0.svg",
+    "index.html": "/twittor-app/index.html",
+    "main.cd57c90d.css.map": "/twittor-app/static/css/main.cd57c90d.css.map",
+    "main.0d4665ce.js.map": "/twittor-app/static/js/main.0d4665ce.js.map",
+    "787.a576fb6f.chunk.js.map": "/twittor-app/static/js/787.a576fb6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd57c90d.css",
-    "static/js/main.fc0c59e3.js"
+    "static/js/main.0d4665ce.js"
   ]
 }
